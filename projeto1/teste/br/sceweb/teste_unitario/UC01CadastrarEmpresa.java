@@ -7,7 +7,7 @@ import org.junit.BeforeClass;
 import org.junit.Test;
 
 import br.sceweb.model.Empresa;
-import br.sceweb.servico.EmpresaDAO;
+import br.sceweb.model.EmpresaDAO;
 
 public class UC01CadastrarEmpresa {
 	

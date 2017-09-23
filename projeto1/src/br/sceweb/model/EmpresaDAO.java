@@ -1,6 +1,4 @@
-package br.sceweb.servico;
-
-import br.sceweb.model.Empresa;
+package br.sceweb.model;
 
 public class EmpresaDAO {
 	
